@@ -10,6 +10,7 @@ class Game:
 					if guess[x] == player1:
 						secret[x] = player1
 						print(secret)
+						
 					if guess == secret:
 						print("Player1 you win!!!!")
 						gameover = False
