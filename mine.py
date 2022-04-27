@@ -36,5 +36,4 @@ class Game:
 				gameover = False
 				break
 
-start = Game("Tatev","Maya")
 
