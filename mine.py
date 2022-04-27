@@ -38,3 +38,6 @@ class Game:
 				break
 
 
+start = Game("Tatev","Maya")
+
+
