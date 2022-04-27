@@ -40,4 +40,5 @@ class Game:
 
 start = Game("Tatev","Maya")
 
+print("Hello there")
 
